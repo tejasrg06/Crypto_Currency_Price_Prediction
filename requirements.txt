@@ -1,0 +1,7 @@
+
+# System prerequisites for running this project
+
+Node.js >= 18.x
+npm >= 9.x
+
+# (All JS dependencies are managed in package.json)
