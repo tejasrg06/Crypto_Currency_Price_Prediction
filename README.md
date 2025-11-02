@@ -129,6 +129,6 @@ The React and TypeScript communities for excellent documentation and support
 ## 📞 Contact
 Feel free to connect with me:
 
-💼 https://www.linkedin.com/in/yashwanth-v-902a8630b/
+💼 https://github.com/tejasrg06
 
-📧 yashwanthv652@gmail.com.com
+📧 tejasrg51@gmail.com
